@@ -15,6 +15,6 @@ We are....
 |------------|----------------|----------------|
 | Chaewon Park | Coordinator | Oversees progress, sets deadlines, and coordinates team efforts. |
 | Jaeyoon Lee | TBD  | TBD |
-| [Member 3] | TBD | TBD |
-| [Member 4] | TBD | TBD |
-| Youjae Park | TBD | TBD |
+| Allen Lee | TBD | TBD |
+| Austin Kim | TBD | TBD |
+| Youjae Park | Project Leader | TBD |
