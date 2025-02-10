@@ -13,8 +13,8 @@ We are....
 
 | Name        | Role              | Responsibilities |
 |------------|----------------|----------------|
-| Chaewon Park | Coordinator | Oversees progress, sets deadlines, and coordinates team efforts. |
-| Jaeyoon Lee | TBD  | TBD |
-| Allen Lee | TBD | TBD |
-| Austin Kim | TBD | TBD |
-| Youjae Park | Project Leader | TBD |
+| [Chaewon Park](https://github.com/chaewon611) | Coordinator | Oversees progress, sets deadlines, and coordinates team efforts. |
+| [Youjae Park](https://github.com/youjaepark) | Project Leader | Manages tasks, ensures code quality, and guides team collaboration. |
+| [Austin Kim](https://github.com/ak3123) | TBD | TBD |
+| [Jaeyoon Lee](https://github.com/Jaeyoon23) | TBD  | TBD |
+| [Allen Lee]() | TBD | TBD |
