@@ -1,5 +1,5 @@
 # 👋 Welcome to FiveGuys! 
-We are....
+We are the best
 
 ---
 ## 📢 Project Name: [Your Project Name]
