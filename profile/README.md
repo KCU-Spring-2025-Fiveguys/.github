@@ -2,10 +2,10 @@
 We are the best!!!
 
 ---
-## 📢 Project Name: [Your Project Name]
+## 📢 Project Name: Leet Mentor
 
 ### 🏗 Project Overview
-[Briefly describe the project's goal, purpose, and expected outcome.]
+An AI-powered Chrome extension that tutors coding questions
 
 ---
 
