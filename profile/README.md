@@ -17,4 +17,4 @@ We are the best!!!
 | [Youjae Park](https://github.com/youjaepark) | Project Leader | Manages tasks, ensures code quality, and guides team collaboration. |
 | [Jaeyoon Lee](https://github.com/Jaeyoon23) | Data Specialist  | Oversees data analysis, manages project documentation. |
 | [Austin Kim](https://github.com/ak3123) | AI Developer | Develops and optimizes AI models, fine-tunes AI-related features.|
-| [Allen Lee]() | Integration Engineer  | Focuses on API design, optimization, and integrations of the system. |
+| [Allen Lee](https://github.com/dbwns1019) | Integration Engineer  | Focuses on API design, optimization, and integrations of the system. |
