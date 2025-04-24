@@ -1,11 +1,13 @@
 # 👋 Welcome to FiveGuys! 
-We are the best!!!
+At **FiveGuys**, we believe in putting people first.
+Our mission is to create tools that empower individuals to learn, grow, and succeed-with code. Through thoughtful design, collaboration, and innovation, we aim to make programming more approachable for everyone.
 
 ---
 ## 📢 Project Name: Leet Mentor
 
 ### 🏗 Project Overview
-An AI-powered Chrome extension that tutors coding questions
+**Leet Mentor** is an AI-powered Chrome extension designed to assist users in mastering coding interview questions.
+Whether you’re just starting out or preparing for your next technical interview, Leet Mentor provides personalized guidance, insights, and support, right where you need it.
 
 ---
 
